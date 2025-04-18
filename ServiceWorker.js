@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-KSEA-0.1";
 const contentToCache = [
     "Build/KSEA.loader.js",
-    "Build/KSEA.framework.js",
-    "Build/KSEA.data",
-    "Build/KSEA.wasm",
+    "Build/KSEA.framework.js.unityweb",
+    "Build/KSEA.data.unityweb",
+    "Build/KSEA.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
